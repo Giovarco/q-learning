@@ -1,3 +1,4 @@
+import brain.QTable;
 import environment.Environment;
 
 public class QLearning {

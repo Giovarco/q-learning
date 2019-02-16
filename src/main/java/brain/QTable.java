@@ -1,3 +1,5 @@
+package brain;
+
 import environment.Tile;
 
 public class QTable {
